@@ -1,3 +1,9 @@
+Order of files
+**First-Step-Using-Mongo.ipynb**
+**Google_API_GeoCoding_Places.ipynb**
+**geoJSON_and_Folium.ipynb**
+
+
 # geoJSON Data Project
 
 This project is going to take us through a search of possible locations for a new office for our avatar tech company. The company has provided certain guidelines for us to keep in mind for their ideal location. 
