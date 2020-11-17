@@ -1,7 +1,8 @@
 Order of files
-**First-Step-Using-Mongo.ipynb**
-**Google_API_GeoCoding_Places.ipynb**
-**geoJSON_and_Folium.ipynb**
+
+1- **First-Step-Using-Mongo.ipynb**
+2- **Google_API_GeoCoding_Places.ipynb**
+3- **geoJSON_and_Folium.ipynb**
 
 
 # geoJSON Data Project
